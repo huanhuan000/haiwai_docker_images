@@ -1,2 +1,2 @@
-FROM gcr.io/google_samples/k8szk:v3
+FROM k8s.gcr.io/descheduler/descheduler:v0.19.0
 MAINTAINER jiahuan.wu
